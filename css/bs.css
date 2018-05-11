@@ -39,3 +39,9 @@
     color: #fff;
     background: black;
 }
+.page-header ,p {
+  margin-left: 240px;
+}
+.right{
+  margin-left: 10px;
+}
